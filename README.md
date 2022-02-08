@@ -47,3 +47,6 @@ Every time the player either taps on a mine or completes the board, they will ga
 
 #### Scalability
 Minesweeper- Shapes allows for new board types to be easily implemented due to the MVC pattern design. Along the same lines, new and custom parameters for game modes could also be added to the game. There is also potential for different tile skins, as the board data is not affected by the way the tiles are drawn.
+
+## Privacy Policy
+This app does not collect any data.
